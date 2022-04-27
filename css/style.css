@@ -17,7 +17,7 @@ nav {
 nav a{
     line-height: 50px;
     height: 100%;
-    font-size: 15px;
+    font-size: 16px;
     display: inline-block;
     z-index: 1;
 
@@ -32,7 +32,7 @@ nav a{
 }
 
 nav .active{
-    background-color: #2cc0a7;
+    background-color: #1734d0;
     border-radius: 8px;
 }
 
